@@ -1,2 +1,3 @@
 # TCP-IP-Network-communication
-# Ajax에get과post방식학습
+  * GET방식 이해하기
+  * POST방식 이해하기
